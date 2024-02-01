@@ -4,7 +4,7 @@ const cryptoApiHeaders = {
     
     'X-RapidAPI-Key': process.env.REACT_APP_RAPIDAPI_KEY,
 }
-console.log("l"+process.env.REACT_APP_RAPIDAPI_KEY);
+// console.log("l"+process.env.REACT_APP_RAPIDAPI_KEY);
 
 const baseUrl = process.env.REACT_APP_CRYPTO_API_URL;
 

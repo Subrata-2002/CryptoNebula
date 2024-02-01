@@ -17,7 +17,7 @@ const Homepage = () => {
   if (isLoading) return <Loader/>
   if (isError) return <p>Error loading data</p>;
 
-  console.log(data);
+
  
 
   
